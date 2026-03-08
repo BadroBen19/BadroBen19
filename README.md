@@ -45,19 +45,19 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BadroBen19RNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadroBen19&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badreddine-benblal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma.benblal@esi-sba.dz)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=blueviolet&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=BadroBen19&color=blueviolet&style=flat-square" alt="Profile views"/>
 
 *⚡ Fun fact: I've probably argued with an AI more times than with actual humans.*
 
