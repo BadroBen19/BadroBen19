@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats
 
-![Badr's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadroBen19&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadroBen19&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BadroBen19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![BadroBen19's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BadroBen19&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
