@@ -1,15 +1,8 @@
 <div align="center">
 
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ░█████╗░██╗  ███████╗███╗  ██╗████████╗██╗        ║
-║        ██╔══██╗██║  ██╔════╝████╗ ██║╚══██╔══╝██║        ║
-║        ███████║██║  ███████╗██╔██╗██║   ██║   ██║        ║
-║        ██╔══██║██║  ╚════██║██║╚████║   ██║   ██║        ║
-║        ██║  ██║██║  ███████║██║ ╚███║   ██║   ██║        ║
-║        ╚═╝  ╚═╝╚═╝  ╚══════╝╚═╝  ╚══╝  ╚═╝   ╚═╝        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Badreddine%20Benblal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=2CS%20%40%20ESI%20SBA%20%7C%20AISD%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
+
+---
 
 ### 🎓 2CS Student @ ESI SBA · Spécialité AISD
 ### 🤖 AI Enthusiast · Building the future, one model at a time
@@ -50,7 +43,7 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/Badreddine%20Benblal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badreddine-benblal)
+[![LinkedIn](https://img.shields.io/badge/Badreddine%20Benblal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badreddine-benblal-94462a36b)
 [![Email](https://img.shields.io/badge/ma.benblal@esi--sba.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma.benblal@esi-sba.dz)
 
 ---
